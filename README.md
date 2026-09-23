@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0f2a4a,100:1f6feb&height=120&section=header" width="100%" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0f2a4a,100:1f6feb&height=170&section=header&text=Emre%20Demir&fontSize=42&fontColor=e6f1ff&fontAlignY=36&desc=Technical%20Software%20%26%20Hardware%20Support&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Merhaba%2C+ben+Emre+%F0%9F%91%8B;Hi+there%2C+I'm+Emre+%F0%9F%91%8B;Software+%2B+Hardware+%2B+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Merhaba%2C+ben+Emre+%F0%9F%91%8B;Hi+there%2C+I'm+Emre+%F0%9F%91%8B;Software+%2B+Hardware+%2B+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -22,15 +22,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,dotnet,postgres,mongodb,linux,docker,git&theme=dark&perline=12" />
-
-</div>
-
-### 📊 İstatistikler | Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Emrefb06&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrefb06&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
